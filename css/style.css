@@ -1,4 +1,15 @@
 td, th {
 	border: 1px solid;
-  }
+}
+
+img {
+  max-width: 5em;
+}
+
+#planets {
+  margin: 0 auto;
+}
   
+h1 {
+  text-align: center;
+}
